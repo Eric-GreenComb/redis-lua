@@ -1,0 +1,1 @@
+redis-cli --eval ~/go/src/dev/redis-lua/json/decode/decode.lua json_key

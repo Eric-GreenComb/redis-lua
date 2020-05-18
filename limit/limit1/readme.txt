@@ -1,0 +1,1 @@
+redis-cli --eval ~/go/src/dev/redis-lua/limit/limit1/limit.lua pro 127.0.0.1 , 60 5

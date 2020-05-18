@@ -1,0 +1,1 @@
+redis-cli --eval ~/go/src/dev/lua/hello/hello.lua
